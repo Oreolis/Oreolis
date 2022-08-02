@@ -1,6 +1,7 @@
 # Magento Frontend Engineer 🤖
 
-👋 Hi, I’m Milos, from Serbia and as you can already assume ... I like to code :) 
+> 👋 Hi there, I’m Milos, from Serbia and as you can already assume ... I like to code.
+<br>
 I am passionate about web design and development, especially Front-end development and UI/UX development. This is something I have been doing for more than 4 years, starting from designing websites using Adobe Photoshop & Illustrator. After some time, coding them felt like the natural step ahead to go.
 
 Things I use in an everyday job are HTML, CSS (all preprocessors), Javascript (React.js), various frameworks, but mostly Magento platform for developing e-commerce solutions. This is a framework I've devoted most of my attention in the last 5 years.
