@@ -1,12 +1,12 @@
-# Magento Frontend Engineer 🤖
+# Frontend Engineer / Magento Frontend Dev 🤖
 
-> 👋 **Hi there, I’m Milos, from Serbia and and I've been a web developer for almost 8 years**.
+> 👋 **Hi there, I’m Milos, from Serbia and and I've been a web developer for almost 10 years**.
 <br>
 Since the beginning, as a freelance web developer and designer, I have worked for agencies and collaborated with talented people to create digital products for both business and consumer use.
 <br><br>
-I am passionate about web design and development, especially Front-end development and UI/UX development. This is something I have been doing for more than 7 years, starting just by designing websites using Adobe Photoshop & Illustrator. After some time, coding them felt like the natural step ahead to go.
+I am passionate about web design and development, especially Front-end development and UI/UX development. This is something I have been doing for more than 7 years, starting with just designing websites using Adobe Photoshop & Illustrator. After some time, coding them felt like the natural step to take.
 <br><br>
-Things I use in an everyday job are HTML, CSS (all preprocessors), Javascript (React.js), various frameworks, but mostly Magento platform for developing e-commerce solutions. This is a framework I've devoted most of my attention in the last 5 years.
+Things I use in an everyday job are HTML, CSS (all preprocessors), JavaScript (React.js), different frameworks, but mostly the Magento platform for developing e-commerce solutions. This is a framework I've devoted most of my attention in the last 8 years.
 
 ## Technologies & Tools
 ![](https://img.shields.io/badge/-Git-informational?style=flat-square&logo=Git&logoColor=f05032&color=e6e3e3)
